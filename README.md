@@ -72,6 +72,16 @@ Principais pontos:
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviofaleiros&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
 </p>
 
+### Contribuições em movimento
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otaviofaleiros/otaviofaleiros/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otaviofaleiros/otaviofaleiros/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man percorrendo o histórico de contribuições de Otávio" src="https://raw.githubusercontent.com/otaviofaleiros/otaviofaleiros/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
 ---
 
 <p align="center">
