@@ -1,28 +1,25 @@
-<h1 align="center">Olá, eu sou o Otávio Vitor 👋</h1>
+<h1 align="center">Hi, I'm Otavio Vitor 👋</h1>
 
 <p align="center">
-  Estudante do IFTM, transformando aprendizado em projetos práticos de software.
+  Systems Analysis and Development student at IFTM, turning what I learn into practical software projects.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=otaviofaleiros&style=flat-square&color=2f81f7&label=Visitas" alt="Visitas ao perfil">
+  <img src="https://komarev.com/ghpvc/?username=otaviofaleiros&style=flat-square&color=2f81f7&label=Profile+views" alt="Profile views">
 </p>
 
-## Sobre mim
+## About me
 
-Minha base começou com lógica de programação e Portugol. Hoje pratico C e C++, desenvolvo aplicações com Python, JavaScript, TypeScript e React, e estou iniciando meus estudos em Java.
+I started with programming logic and Portugol and now build web applications and automations while strengthening my foundation in algorithms and data structures. This profile documents that journey through academic assignments and projects created to solve real problems.
 
-Uso este perfil para registrar minha evolução e mostrar projetos que resolvem problemas reais, além das atividades desenvolvidas durante o curso.
+- 🎓 Systems Analysis and Development student at **IFTM**
+- 🚀 Building web applications and automations
+- 🧠 Practising algorithms, data structures, databases and security
+- 📚 Improving previous projects as my technical knowledge grows
 
-- 🎓 Estudante do **IFTM**
-- 🚀 Desenvolvendo aplicações web e automações
-- ☕ Iniciando os estudos em **Java**
-- 🧠 Fortalecendo conhecimentos em **algoritmos, bancos de dados e segurança**
-- 📚 Revisando e melhorando projetos anteriores conforme aprendo
+## Technologies
 
-## Tecnologias
-
-### Já utilizadas em projetos
+### Used in projects
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -35,55 +32,54 @@ Uso este perfil para registrar minha evolução e mostrar projetos que resolvem 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
 </p>
 
-### Em aprendizado
+### Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Java-em%20aprendizado-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java em aprendizado">
+  <img src="https://img.shields.io/badge/Java-Currently%20Learning-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java - currently learning">
 </p>
 
-## Projeto principal
+## Featured project
 
 ### [Toys Team Central](https://github.com/otaviofaleiros/toys-team-central)
 
-Painel web criado para organizar ofertas, grupos, contatos e rotinas de uma operação de WhatsApp. O projeto reúne uma aplicação local com Python, Flask, React e SQLite e uma arquitetura online em TypeScript preparada para Cloudflare.
+A web dashboard designed to organize offers, groups, contacts and operational routines for WhatsApp. It combines a local application built with Python, Flask, React and SQLite with an online TypeScript architecture prepared for Cloudflare.
 
-Principais pontos:
+Highlights include a simplified startup flow, persistent offer queues and scheduling, CRM features, role-based access, a responsive admin dashboard, migration backups and security controls.
 
-- inicialização simplificada em uma única janela;
-- fila persistente de ofertas e agendamentos;
-- CRM, usuários e permissões;
-- painel administrativo responsivo;
-- validações, backup de migração e controles de segurança;
-- separação segura entre código público e dados privados.
+## More projects
 
-## Outros projetos
-
-| Projeto | O que você encontra |
+| Project | What you will find |
 | --- | --- |
-| [Exercícios em C e C++](https://github.com/otaviofaleiros/exercicios-c-cpp) | Exercícios numerados, fundamentos e projetos como Tamagotchi e caixa de supermercado. |
-| [Atividades de lógica](https://github.com/otaviofaleiros/Atividade_IFTM) | Primeiros algoritmos em Portugol, com cálculos, conversões e estruturas condicionais. |
-| [Atividade de 25/03](https://github.com/otaviofaleiros/Atividade_IFTM_25-03) | Comparações, operações matemáticas, números pares e equação do segundo grau. |
-| [Atividade de 03/04](https://github.com/otaviofaleiros/Atividade.03.04) | Exercícios de decisão, classificação e seleção em Portugol. |
+| [Data Structures I - Algorithms](https://github.com/otaviofaleiros/estrutura-de-dados-i-algoritmos) | Seven C++ solutions covering logic, arrays and classic algorithms. |
+| [C and C++ Exercises](https://github.com/otaviofaleiros/exercicios-c-cpp) | Numbered exercises, fundamentals and projects such as a Tamagotchi and a supermarket checkout. |
+| [Programming Logic Activities](https://github.com/otaviofaleiros/Atividade_IFTM) | Early Portugol algorithms involving calculations, conversions and conditionals. |
+| [Activity from March 25](https://github.com/otaviofaleiros/Atividade_IFTM_25-03) | Comparisons, mathematical operations, even numbers and quadratic equations. |
+| [Activity from April 3](https://github.com/otaviofaleiros/Atividade.03.04) | Decision, classification and selection exercises in Portugol. |
 
-## Minha atividade no GitHub
+## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=otaviofaleiros&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviofaleiros&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=otaviofaleiros&show_icons=true&theme=github_dark&hide_border=true" alt="Otavio's GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviofaleiros&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages">
 </p>
 
-### Contribuições em movimento
+### Contributions in motion
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otaviofaleiros/otaviofaleiros/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otaviofaleiros/otaviofaleiros/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man percorrendo o histórico de contribuições de Otávio" src="https://raw.githubusercontent.com/otaviofaleiros/otaviofaleiros/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man moving through Otavio's contribution history" src="https://raw.githubusercontent.com/otaviofaleiros/otaviofaleiros/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+## Contact
+
+- Email: [otavio.faleiros@estudante.iftm.edu.br](mailto:otavio.faleiros@estudante.iftm.edu.br)
+- LinkedIn: available from my GitHub profile links
 
 ---
 
 <p align="center">
-  Cada repositório representa uma etapa do meu aprendizado e da minha evolução como desenvolvedor.
+  Each repository represents a step in my learning journey and growth as a developer.
 </p>
